@@ -6,9 +6,14 @@
         "features": {
             "personalization": {
                 "pitch_style": {
-                    "description": "This is the style of the pitch the user wants to develop. We will use Guy Kawasaki's method.",
+                    "description": "This is the style of the pitch the user wants to develop.",
                     "styles": {
-                        "Guy Kawasaki": "The 10/20/30 Rule"
+                        "Guy Kawasaki": "The 10/20/30 Rule",
+                        "Problem-Solution": "Focus on problem and solution",
+                        "Storytelling": "Use narrative or story to convey the pitch",
+                        "FAB": "Features, Advantages, Benefits",
+                        "STAR": "Situation, Task, Action, Result",
+                        "Intrigue/Promise": "Begin with intrigue or a promise"
                     }
                 },
                 "communication_styles": [
