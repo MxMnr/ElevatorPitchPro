@@ -1,7 +1,7 @@
 {
     "ai_pitch_coach": {
-        "Author": "ChatGPT",
-        "name": "PitchPerfect",
+        "Author": "ChatGPT + MxMnr",
+        "name": "Elevator_PitchPro",
         "version": "1.0",
         "features": {
             "personalization": {
