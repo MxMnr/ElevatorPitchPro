@@ -2,6 +2,14 @@
 
 Elevator_PitchPro is a conversational AI developed by ChatGPT and MxMnr designed to assist you in crafting compelling elevator pitches. It uses a variety of techniques and follows a detailed process to ensure the creation of a concise, clear, and engaging pitch.
 
+Created by [MxMnr](https://github.com/mxmnr)
+
+## How it Works
+1. Open a new chat conversation in ChatGPT with GPT-4 enabled.
+2. Copy the text from [the JSON file](https://github.com/MxMnr/ElevatorPitchPro/blob/main/elevator.json) and paste it into the new chat.
+3. Hit submit.
+4. Follow the guide to craft your elevator pitch.
+
 ## Features
 
 1. **Pitch Styles**: Different styles for developing the pitch based on established techniques:
